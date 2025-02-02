@@ -20,15 +20,16 @@
  Analysis of total bookings by day type and booking platform & key metrics Includes total bookings, total capacity, and the number of guests who have checked out.
  This helps evaluate booking patterns and optimize strategies for each platform and day type.
  
-Overall Analysis
+Overall Analysis-
 
-![Hospitality Analysis](https://github.com/user-attachments/assets/93853350-14c8-4ea0-bb6c-113a286fab7f)
+![Hospitality Analysis](https://github.com/user-attachments/assets/c4eb6e7d-c962-4e70-8282-e57883966957)
 
-Revenue Overview -
+
+Revenue Overview-
 
 ![Revenue Analysis](https://github.com/user-attachments/assets/d8381270-4cc4-4518-bbe9-835faee95763)
 
-Booking Overview -
+Booking Overview-
 
 ![Booking Analysis](https://github.com/user-attachments/assets/0ab59c9c-1929-4dc7-8b06-ed3f2af8e233)
 
