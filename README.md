@@ -27,7 +27,8 @@ Overall Analysis-
 
 Revenue Overview-
 
-![Revenue Analysis](https://github.com/user-attachments/assets/d8381270-4cc4-4518-bbe9-835faee95763)
+![Revenue Analysis](https://github.com/user-attachments/assets/ba31a537-3a8a-4a7a-85fa-930bb38820dd)
+
 
 Booking Overview-
 
